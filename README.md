@@ -108,6 +108,6 @@ Visit the app at: `http://127.0.0.1:5000/`
 
 ## 👨‍💻 Author
 
-**\[Your Name]**
+**\Kanaga Priya S**
 📧 Email: [kanagask0210@gmail.com](mailto:kanagask0210@gmail.com)
 🌐 GitHub: [@KANAGA-PRIYA-19](https://github.com/KANAGA-PRIYA-19)
